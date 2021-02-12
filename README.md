@@ -24,3 +24,10 @@ After run synthesis is successful, vsdPLLSoC.synthesis.v file gets generated as 
 
 
 
+# ACKNOWLEDGEMENT
+
+[Kunal Ghosh - Co-founder, VSD Corp. Pvt. Ltd](https://github.com/kunalg123)
+
+[Lakshmi Sathi](https://github.com/lakshmi-sathi)
+
+[Roshan Khatri](https://github.com/rsnkhatri3)
