@@ -8,8 +8,19 @@ Firstly, we prepare design of chip_io in OpenLANE. Then run synthesis on chip_io
 
 ![alt text](https://github.com/Dole97/PLL-SoC-Implementation/blob/main/chipioconfig.tcl%202.PNG)
 
+After run synthesis is successful, chip_io.synthesis.v file gets generated as follows:-
+
+![alt text](https://github.com/Dole97/PLL-SoC-Implementation/blob/main/chipio%20synthesis%20file.PNG)
+
 Then we prepare design of vsdPLLSoC and run synthesis on that design. Configuration TCL file of vsdPLLSoC looks like:-
 
 ![alt text](https://github.com/Dole97/PLL-SoC-Implementation/blob/main/pllsocconfig.tcl%201.PNG)
 
 ![alt text](https://github.com/Dole97/PLL-SoC-Implementation/blob/main/pllsocconfig.tcl%202.PNG)
+
+After run synthesis is successful, vsdPLLSoC.synthesis.v file gets generated as follows:-
+
+![alt text](https://github.com/Dole97/PLL-SoC-Implementation/blob/main/PLL%20SoC%20synthesis%20file.PNG)
+
+
+
