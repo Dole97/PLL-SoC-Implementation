@@ -4,6 +4,12 @@ In this project, a PLL IP would be integrated into an SoC along with necessary I
 
 Firstly, we prepare design of chip_io in OpenLANE. Then run synthesis on chip_io design. The configuration tcl file of chip_io design looks like:-
 
+![alt text](https://github.com/Dole97/PLL-SoC-Implementation/blob/main/chipioconfig.tcl%201.PNG)
+
+![alt text](https://github.com/Dole97/PLL-SoC-Implementation/blob/main/chipioconfig.tcl%202.PNG)
 
 Then we prepare design of vsdPLLSoC and run synthesis on that design. Configuration TCL file of vsdPLLSoC looks like:-
 
+![alt text](https://github.com/Dole97/PLL-SoC-Implementation/blob/main/pllsocconfig.tcl%201.PNG)
+
+![alt text](https://github.com/Dole97/PLL-SoC-Implementation/blob/main/pllsocconfig.tcl%202.PNG)
